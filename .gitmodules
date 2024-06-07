@@ -1,0 +1,3 @@
+[submodule "alien_invasion"]
+	path = alien_invasion
+	url = git@github.com:yhwyxy/alien_invasion.git
